@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+mv_estudiante/
+.venv/
+test-results/
+report.html
